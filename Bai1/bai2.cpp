@@ -4,9 +4,8 @@
 using namespace std;
 
 int main(){
-    cout<<"Xin chào tôi tên : NGÔ BẢO LONG";
-    cout<<"Tôi là sinh viên trường : Đại Học Công Nghiệp Thái Nguyên TNUT";
-    cout<<"Hiện tại tôi đang phải học lại những thứ cơ bản nhất mà tôi đã không học";
-    cout<<"Tôi hiện đang trong quá trình học lại rèn lại bản thân từ gốc kể từ bây giờ.";
+    cout<<"Xin chào tôi tên : NGÔ BẢO LONG"<<endl;
+    cout<<"Tôi là sinh viên trường : Đại Học Công Nghiệp Thái Nguyên TNUT"<<endl;
+    cout<<"Hiện tại tôi đang phải học lại những thứ cơ bản nhất mà tôi đã không học"<<endl;
+    cout<<"Tôi hiện đang trong quá trình học lại rèn lại bản thân từ gốc kể từ bây giờ."<<endl;
 }
-// Tôi quên mất cách xuống dòng rồi.
