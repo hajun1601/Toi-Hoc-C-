@@ -1,26 +1,25 @@
-// viet chuong trinh nhap thong tin.
+// viết chương trình nhập thông tin cá nhân 
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main(){
   string name, dia_chi, dhdh, email;
   int sdt;
-    cout<<"1: ";
+    cout<<"Nhập tên : ";;
     cin >> name;
-    cout<<"2: ";
+    cout<<"Nhập số điện thoại : ";
     cin >> sdt;
-    cout<<"3: ";
+    cout<<"Nhập địa chỉ : ";
     cin >> dia_chi;
-    cout<<"4: ";
+    cout<<"Nhập đại học hiện đang học : ";
     cin >> dhdh;
-    cout<<"5: ";
+    cout<<"Nhập email : ";
     cin >> email;
     cout << "\n";
-	cout << "1 :" << name << endl;
-	cout << "2 :" << sdt << endl;
-	cout << "3 :" << dia_chi << endl;
-	cout << "4 :" << dhdh << endl;
-	cout << "5 : " << email << endl;
-    system("pause");
+    cout << "Họ & Tên: " << name << endl;
+    cout << "Số Điện Thoại: " << sdt << endl;
+    cout << "Địa Chỉ: " << dia_chi << endl;
+    cout << "Đại Hiện Đang Học : " << dhdh << endl;
+    cout << "Email: " << email << endl;
+    return 0;
 }
