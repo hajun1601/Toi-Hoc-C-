@@ -8,8 +8,8 @@
             "args": [],
             "stopAtEntry": false,
             "externalConsole": true,
-            "cwd": "c:/Users/ngoba/OneDrive/Máy tính/FILE/Toi-Hoc-C-/Bai1",
-            "program": "c:/Users/ngoba/OneDrive/Máy tính/FILE/Toi-Hoc-C-/Bai1/build/Debug/outDebug",
+            "cwd": "c:/Users/ngoba/Desktop/Toi-Hoc-C-/Bai3",
+            "program": "c:/Users/ngoba/Desktop/Toi-Hoc-C-/Bai3/build/Debug/outDebug",
             "MIMode": "gdb",
             "miDebuggerPath": "gdb",
             "setupCommands": [
