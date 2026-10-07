@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-using namespace std;
-
 int main(){
     int a, b;
     cout <<"Nhap a :";
